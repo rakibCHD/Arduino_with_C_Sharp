@@ -19,6 +19,6 @@ It will flash the dedicated HEX file to your Arduino Board.
 
 You must select the output pin from the pin list.
 
-Now you can operate the functions (On, Off).
+Now you can operate the functions (On, Off, Blink).
 
 You can also upload any HEX file for Arduino.
